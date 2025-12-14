@@ -210,12 +210,23 @@ This project was developed as an academic graduation project at Al-Yamamah Unive
 - Unity Technologies for development tools
 - All survey participants who provided valuable feedback
 
-## 📖 References
+## 📖 Documentation
 
-For detailed information about the project methodology, research, and implementation, please refer to the full graduation project report.
+### Full Project Report
+
+For comprehensive details about the project including methodology, research, literature review, system analysis, implementation, and results, please refer to the complete graduation project report:
+
+📄 **[View Full Graduation Project Report](docs/GP_Report%20final.docx)**
+
+The report includes:
+- Chapter 1: Introduction and Problem Statement
+- Chapter 2: Literature Review and Related Work
+- Chapter 3: System Analysis and Design
+- Chapter 4: Implementation Details
+- Chapter 5: Data Analysis and Findings
+- Chapter 6: Conclusion and Recommendations
+- Appendices: Survey Results and Additional Data
 
 ---
-
-**⭐ If you find this project helpful, please consider giving it a star!**
 
 *Developed with passion for cybersecurity education*
