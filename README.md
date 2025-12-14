@@ -216,7 +216,7 @@ This project was developed as an academic graduation project at Al-Yamamah Unive
 
 For comprehensive details about the project including methodology, research, literature review, system analysis, implementation, and results, please refer to the complete graduation project report:
 
-📄 **[View Full Graduation Project Report](docs/GP_Report%20final.docx)**
+📄 **[View Full Graduation Project Report](docs/GP_Report.docx)**
 
 The report includes:
 - Chapter 1: Introduction and Problem Statement
