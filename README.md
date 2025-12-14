@@ -195,8 +195,11 @@ This project was developed as an academic graduation project at Al-Yamamah Unive
 
 ## 📞 Contact
 
-**Project Team:**
-- Talal Alharthi - [GitHub](https://github.com/Talalmh19)
+**Talal Alharthi**
+- [GitHub](https://github.com/Talalmh19)
+- [Email](talalbinmuhaysin@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/talal-alharthi-ccna-a18270330/)
+
 
 **Institution:**
 - Al-Yamamah University
