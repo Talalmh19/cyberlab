@@ -1,0 +1,5252 @@
+fileFormatVersion: 2
+guid: 518a39e10b7307646bd129a3ba198d28
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3033639705366583002
+    second: How to Play Text_0
+  - first:
+      213: -8259579099889955026
+    second: How to Play Text_1
+  - first:
+      213: -8899401648650430044
+    second: How to Play Text_2
+  - first:
+      213: -1162626721779037374
+    second: How to Play Text_3
+  - first:
+      213: 5016666442701510410
+    second: How to Play Text_4
+  - first:
+      213: -8061400793574785603
+    second: How to Play Text_5
+  - first:
+      213: 8334286447129917948
+    second: How to Play Text_6
+  - first:
+      213: -97841728618500942
+    second: How to Play Text_7
+  - first:
+      213: 6877947393106041846
+    second: How to Play Text_8
+  - first:
+      213: 8992182801472071415
+    second: How to Play Text_9
+  - first:
+      213: 1153979385226094923
+    second: How to Play Text_10
+  - first:
+      213: 9135638081609781396
+    second: How to Play Text_11
+  - first:
+      213: 4720054073053019835
+    second: How to Play Text_12
+  - first:
+      213: -6898791005335865101
+    second: How to Play Text_13
+  - first:
+      213: -8757885283423084813
+    second: How to Play Text_14
+  - first:
+      213: -7378059736184268598
+    second: How to Play Text_15
+  - first:
+      213: -282907658894075773
+    second: How to Play Text_16
+  - first:
+      213: -7347567252264735321
+    second: How to Play Text_17
+  - first:
+      213: 3381623163696571845
+    second: How to Play Text_18
+  - first:
+      213: 389105258174689332
+    second: How to Play Text_19
+  - first:
+      213: -4129918546554279814
+    second: How to Play Text_20
+  - first:
+      213: 7315712025799420267
+    second: How to Play Text_21
+  - first:
+      213: -754340546234149223
+    second: How to Play Text_22
+  - first:
+      213: 3024426302901025523
+    second: How to Play Text_23
+  - first:
+      213: -8230135790055661425
+    second: How to Play Text_24
+  - first:
+      213: 1432283138680013845
+    second: How to Play Text_25
+  - first:
+      213: -3650323066526719682
+    second: How to Play Text_26
+  - first:
+      213: -7471459846724987922
+    second: How to Play Text_27
+  - first:
+      213: -3500744710048625373
+    second: How to Play Text_28
+  - first:
+      213: -7609282228998448471
+    second: How to Play Text_29
+  - first:
+      213: -4503836335037190268
+    second: How to Play Text_30
+  - first:
+      213: -4218517236798957961
+    second: How to Play Text_31
+  - first:
+      213: 5260695978745803015
+    second: How to Play Text_32
+  - first:
+      213: 8009901961450802228
+    second: How to Play Text_33
+  - first:
+      213: -6479969072999285212
+    second: How to Play Text_34
+  - first:
+      213: 5903457843835911773
+    second: How to Play Text_35
+  - first:
+      213: 9092428348573650933
+    second: How to Play Text_36
+  - first:
+      213: 6682059606645190658
+    second: How to Play Text_37
+  - first:
+      213: -86689844615732689
+    second: How to Play Text_38
+  - first:
+      213: 5567186071752780752
+    second: How to Play Text_39
+  - first:
+      213: -7708230177146137503
+    second: How to Play Text_40
+  - first:
+      213: -3120672694763725499
+    second: How to Play Text_41
+  - first:
+      213: -5640498602211324781
+    second: How to Play Text_42
+  - first:
+      213: 8258775258263856548
+    second: How to Play Text_43
+  - first:
+      213: -7361310892465968831
+    second: How to Play Text_44
+  - first:
+      213: -3546697683878219946
+    second: How to Play Text_45
+  - first:
+      213: -5606109139110817432
+    second: How to Play Text_46
+  - first:
+      213: -8908994781920268596
+    second: How to Play Text_47
+  - first:
+      213: 6103030743393870010
+    second: How to Play Text_48
+  - first:
+      213: 6329804092010761925
+    second: How to Play Text_49
+  - first:
+      213: 1624895527272804371
+    second: How to Play Text_50
+  - first:
+      213: 741064404794713240
+    second: How to Play Text_51
+  - first:
+      213: -3618593273363345241
+    second: How to Play Text_52
+  - first:
+      213: 4312430480038344067
+    second: How to Play Text_53
+  - first:
+      213: -7266222380519471774
+    second: How to Play Text_54
+  - first:
+      213: 4408381271314474257
+    second: How to Play Text_55
+  - first:
+      213: 3208294626355855127
+    second: How to Play Text_56
+  - first:
+      213: -8770271695851209657
+    second: How to Play Text_57
+  - first:
+      213: 3466754790186243773
+    second: How to Play Text_58
+  - first:
+      213: 5509819532544102859
+    second: How to Play Text_59
+  - first:
+      213: 7710402479430257547
+    second: How to Play Text_60
+  - first:
+      213: -8085772762321470252
+    second: How to Play Text_61
+  - first:
+      213: 5165783586805017976
+    second: How to Play Text_62
+  - first:
+      213: -5060524160960146349
+    second: How to Play Text_63
+  - first:
+      213: 3666987858288368177
+    second: How to Play Text_64
+  - first:
+      213: -5965553225040950491
+    second: How to Play Text_65
+  - first:
+      213: 2791754149131663108
+    second: How to Play Text_66
+  - first:
+      213: 8248363824281472955
+    second: How to Play Text_67
+  - first:
+      213: -6826525466185657068
+    second: How to Play Text_68
+  - first:
+      213: -6070991333242049098
+    second: How to Play Text_69
+  - first:
+      213: -6586072499219175309
+    second: How to Play Text_70
+  - first:
+      213: -4925540479474483333
+    second: How to Play Text_71
+  - first:
+      213: -7104952204496954526
+    second: How to Play Text_72
+  - first:
+      213: -1596000715721895193
+    second: How to Play Text_73
+  - first:
+      213: -1783865674416898537
+    second: How to Play Text_74
+  - first:
+      213: 6490957521507999860
+    second: How to Play Text_75
+  - first:
+      213: 5988601953854886929
+    second: How to Play Text_76
+  - first:
+      213: -6422491683037255950
+    second: How to Play Text_77
+  - first:
+      213: -3705883409097238716
+    second: How to Play Text_78
+  - first:
+      213: -8830166878860431154
+    second: How to Play Text_79
+  - first:
+      213: 7984836241818358314
+    second: How to Play Text_80
+  - first:
+      213: -1307090806134265630
+    second: How to Play Text_81
+  - first:
+      213: 3901262441464504401
+    second: How to Play Text_82
+  - first:
+      213: -7460905128954099381
+    second: How to Play Text_83
+  - first:
+      213: -7581920818170265341
+    second: How to Play Text_84
+  - first:
+      213: -4341539495805420435
+    second: How to Play Text_85
+  - first:
+      213: -1604677343443877857
+    second: How to Play Text_86
+  - first:
+      213: 2608932577864963123
+    second: How to Play Text_87
+  - first:
+      213: 2682206058037415759
+    second: How to Play Text_88
+  - first:
+      213: 1023754557316794651
+    second: How to Play Text_89
+  - first:
+      213: 8037025579756425635
+    second: How to Play Text_90
+  - first:
+      213: -2130554719658515223
+    second: How to Play Text_91
+  - first:
+      213: 4320586352444111023
+    second: How to Play Text_92
+  - first:
+      213: -3771797402802646988
+    second: How to Play Text_93
+  - first:
+      213: 7035260455739131635
+    second: How to Play Text_94
+  - first:
+      213: 7419960389881519869
+    second: How to Play Text_95
+  - first:
+      213: 5579418281476328548
+    second: How to Play Text_96
+  - first:
+      213: 3097839913127894529
+    second: How to Play Text_97
+  - first:
+      213: 8949090051469214152
+    second: How to Play Text_98
+  - first:
+      213: 1955285872814011390
+    second: How to Play Text_99
+  - first:
+      213: 7696769762599142182
+    second: How to Play Text_100
+  - first:
+      213: 134561889366877252
+    second: How to Play Text_101
+  - first:
+      213: 7856722535006029478
+    second: How to Play Text_102
+  - first:
+      213: 3918118240159131387
+    second: How to Play Text_103
+  - first:
+      213: 6672901248527864420
+    second: How to Play Text_104
+  - first:
+      213: -5574726494794254609
+    second: How to Play Text_105
+  - first:
+      213: 7077196955650755485
+    second: How to Play Text_106
+  - first:
+      213: -447181030747502442
+    second: How to Play Text_107
+  - first:
+      213: 5645726400848770477
+    second: How to Play Text_108
+  - first:
+      213: 8903121822074256758
+    second: How to Play Text_109
+  - first:
+      213: -6830327501694033967
+    second: How to Play Text_110
+  - first:
+      213: -1914465569677171630
+    second: How to Play Text_111
+  - first:
+      213: 1085148953897704923
+    second: How to Play Text_112
+  - first:
+      213: -2780816861595354747
+    second: How to Play Text_113
+  - first:
+      213: 2070652108419759737
+    second: How to Play Text_114
+  - first:
+      213: -6695792922514134098
+    second: How to Play Text_115
+  - first:
+      213: -7397015799756951808
+    second: How to Play Text_116
+  - first:
+      213: -2977483719254815710
+    second: How to Play Text_117
+  - first:
+      213: -2344610792695844818
+    second: How to Play Text_118
+  - first:
+      213: -7550525435952732689
+    second: How to Play Text_119
+  - first:
+      213: 6577625586849024154
+    second: How to Play Text_120
+  - first:
+      213: 8905764104500939147
+    second: How to Play Text_121
+  - first:
+      213: 1910763646989187208
+    second: How to Play Text_122
+  - first:
+      213: -6120358328883072312
+    second: How to Play Text_123
+  - first:
+      213: 330493621488836678
+    second: How to Play Text_124
+  - first:
+      213: -6353408506561222535
+    second: How to Play Text_125
+  - first:
+      213: 7931799415994923176
+    second: How to Play Text_126
+  - first:
+      213: 2222989343328639954
+    second: How to Play Text_127
+  - first:
+      213: 7025963298516887387
+    second: How to Play Text_128
+  - first:
+      213: -7739322447065675470
+    second: How to Play Text_129
+  - first:
+      213: 9206624772285466117
+    second: How to Play Text_130
+  - first:
+      213: 1636987079983175269
+    second: How to Play Text_131
+  - first:
+      213: 6137250836895111880
+    second: How to Play Text_132
+  - first:
+      213: 8506698201452131383
+    second: How to Play Text_133
+  - first:
+      213: -5932691152559147776
+    second: How to Play Text_134
+  - first:
+      213: 3689462476944592267
+    second: How to Play Text_135
+  - first:
+      213: -3986678149739528841
+    second: How to Play Text_136
+  - first:
+      213: 3758998721619625464
+    second: How to Play Text_137
+  - first:
+      213: 4488519114816449093
+    second: How to Play Text_138
+  - first:
+      213: 90395740526141942
+    second: How to Play Text_139
+  - first:
+      213: -5763225917052574680
+    second: How to Play Text_140
+  - first:
+      213: 1976874910312690596
+    second: How to Play Text_141
+  - first:
+      213: 3664646829779794304
+    second: How to Play Text_142
+  - first:
+      213: 5519882183030405589
+    second: How to Play Text_143
+  - first:
+      213: -3027616565397721661
+    second: How to Play Text_144
+  - first:
+      213: -8390154363029719012
+    second: How to Play Text_145
+  - first:
+      213: -2114114677903609993
+    second: How to Play Text_146
+  - first:
+      213: -3065324659062280323
+    second: How to Play Text_147
+  - first:
+      213: -9155259995991049479
+    second: How to Play Text_148
+  - first:
+      213: 2246832093513258863
+    second: How to Play Text_149
+  - first:
+      213: 3180426076530149052
+    second: How to Play Text_150
+  - first:
+      213: 6686459853068232354
+    second: How to Play Text_151
+  - first:
+      213: -7057370583744387326
+    second: How to Play Text_152
+  - first:
+      213: 3546731052430850069
+    second: How to Play Text_153
+  - first:
+      213: -7772663398645308558
+    second: How to Play Text_154
+  - first:
+      213: 3421252270864312927
+    second: How to Play Text_155
+  - first:
+      213: -4387570053734919535
+    second: How to Play Text_156
+  - first:
+      213: 4255934939528636866
+    second: How to Play Text_157
+  - first:
+      213: 8357436162311352143
+    second: How to Play Text_158
+  - first:
+      213: -3825782607414648262
+    second: How to Play Text_159
+  - first:
+      213: 3705218998818052703
+    second: How to Play Text_160
+  - first:
+      213: 9065653028026794680
+    second: How to Play Text_161
+  - first:
+      213: -4887182534813092425
+    second: How to Play Text_162
+  - first:
+      213: 8349745214886558153
+    second: How to Play Text_163
+  - first:
+      213: 6395284766718956993
+    second: How to Play Text_164
+  - first:
+      213: 7610734287321349219
+    second: How to Play Text_165
+  - first:
+      213: -323011979834592096
+    second: How to Play Text_166
+  - first:
+      213: -7493615592373898141
+    second: How to Play Text_167
+  - first:
+      213: 2770300594747228446
+    second: How to Play Text_168
+  - first:
+      213: -7123882889563314583
+    second: How to Play Text_169
+  - first:
+      213: 8182750467348879901
+    second: How to Play Text_170
+  - first:
+      213: -1652068802447546654
+    second: How to Play Text_171
+  - first:
+      213: 4768756367131100720
+    second: How to Play Text_172
+  - first:
+      213: 9004988321074296767
+    second: How to Play Text_173
+  - first:
+      213: -9041600761045874847
+    second: How to Play Text_174
+  - first:
+      213: 2718115664486214368
+    second: How to Play Text_175
+  - first:
+      213: 859745734360475867
+    second: How to Play Text_176
+  - first:
+      213: -2121611140649008519
+    second: How to Play Text_177
+  - first:
+      213: -5375487406878272871
+    second: How to Play Text_178
+  - first:
+      213: 4760277976763960379
+    second: How to Play Text_179
+  - first:
+      213: -3875532275047106591
+    second: How to Play Text_180
+  - first:
+      213: 3708355811441125217
+    second: How to Play Text_181
+  - first:
+      213: 9007775453585147943
+    second: How to Play Text_182
+  - first:
+      213: -7338180383375773000
+    second: How to Play Text_183
+  - first:
+      213: 300995557818481395
+    second: How to Play Text_184
+  - first:
+      213: -6999212867552319657
+    second: How to Play Text_185
+  - first:
+      213: -3167596631250597070
+    second: How to Play Text_186
+  - first:
+      213: -2912717357898924121
+    second: How to Play Text_187
+  - first:
+      213: 884745142890894282
+    second: How to Play Text_188
+  - first:
+      213: -910469463666773416
+    second: How to Play Text_189
+  - first:
+      213: 866899077757765947
+    second: How to Play Text_190
+  - first:
+      213: 1938133759771421320
+    second: How to Play Text_191
+  - first:
+      213: 1706247156008038137
+    second: How to Play Text_192
+  - first:
+      213: -4514631534173817278
+    second: How to Play Text_193
+  - first:
+      213: -4444872400477713222
+    second: How to Play Text_194
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Linux64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: How to Play Text_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 186
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629aa19c2c856e5d0800000000000000
+      internalID: -3033639705366583002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 173
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f81dcd194106d80800000000000000
+      internalID: -8259579099889955026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 173
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a95aa20a59fe7480800000000000000
+      internalID: -8899401648650430044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 173
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24bcbf908258ddfe0800000000000000
+      internalID: -1162626721779037374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_4
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 173
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0798d9dc87ce9540800000000000000
+      internalID: 5016666442701510410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_5
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 173
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd3cea70b6202090800000000000000
+      internalID: -8061400793574785603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_6
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 191
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9f781ed5559a370800000000000000
+      internalID: 8334286447129917948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_7
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 173
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bceb79577564aef0800000000000000
+      internalID: -97841728618500942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_8
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 173
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbd8ed86b0637f50800000000000000
+      internalID: 6877947393106041846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_9
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 173
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6ae158d96aacc70800000000000000
+      internalID: 8992182801472071415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_10
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 173
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4966860322c30010800000000000000
+      internalID: 1153979385226094923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_11
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 173
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490d1eabe6e48ce70800000000000000
+      internalID: 9135638081609781396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_12
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 173
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbef5f8eb20018140800000000000000
+      internalID: 4720054073053019835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_13
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 173
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8bb4bc1229240a0800000000000000
+      internalID: -6898791005335865101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_14
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 191
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe12f96cbdb57680800000000000000
+      internalID: -8757885283423084813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_15
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 173
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8df15b2cddb9990800000000000000
+      internalID: -7378059736184268598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_16
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 173
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388916fabf8e21cf0800000000000000
+      internalID: -282907658894075773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_17
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 173
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ada77d5382380a90800000000000000
+      internalID: -7347567252264735321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_18
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 173
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5ed5cc950fdee20800000000000000
+      internalID: 3381623163696571845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_19
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 173
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4303db5bb21666500800000000000000
+      internalID: 389105258174689332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_20
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 173
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78a55196f49fa6c0800000000000000
+      internalID: -4129918546554279814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_21
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 173
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69e3d0c351a68560800000000000000
+      internalID: 7315712025799420267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_22
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 173
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9961a06154b0885f0800000000000000
+      internalID: -754340546234149223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_23
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 173
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa73c9c2bbe8f920800000000000000
+      internalID: 3024426302901025523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_24
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 173
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80e084aa1fa8cd80800000000000000
+      internalID: -8230135790055661425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_25
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 191
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514cdc21ded70e310800000000000000
+      internalID: 1432283138680013845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_26
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 173
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31a240e282775dc0800000000000000
+      internalID: -3650323066526719682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_27
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 173
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3dc5adada005890800000000000000
+      internalID: -7471459846724987922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_28
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 191
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d4934eb3bda6fc0800000000000000
+      internalID: -3500744710048625373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_29
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 173
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aadad0e026666690800000000000000
+      internalID: -7609282228998448471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_30
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 173
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f6c9337b82f71c0800000000000000
+      internalID: -4503836335037190268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_31
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 173
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7765cbd7ce0d475c0800000000000000
+      internalID: -4218517236798957961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_32
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 173
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701387cce1fb10940800000000000000
+      internalID: 5260695978745803015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_33
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 173
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ccaf94563e82f60800000000000000
+      internalID: 8009901961450802228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_34
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 173
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e3c50e5768216a0800000000000000
+      internalID: -6479969072999285212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_35
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 191
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e355091ab4de150800000000000000
+      internalID: 5903457843835911773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_36
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 173
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff8c66c86bce2e70800000000000000
+      internalID: 9092428348573650933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_37
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 173
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200b2162fc17bbc50800000000000000
+      internalID: 6682059606645190658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_38
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 168
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22ab0eab040ccef0800000000000000
+      internalID: -86689844615732689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_39
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 173
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dba35d6c3e924d40800000000000000
+      internalID: 5567186071752780752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_40
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 173
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164124c6e7dd60590800000000000000
+      internalID: -7708230177146137503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_41
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 173
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54dd858d7b421b4d0800000000000000
+      internalID: -3120672694763725499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_42
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 173
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c4b1be76ce8b1b0800000000000000
+      internalID: -5640498602211324781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_43
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 173
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a52a9c27501d9270800000000000000
+      internalID: 8258775258263856548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_44
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 173
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1492a55cebe57d990800000000000000
+      internalID: -7361310892465968831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_45
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 173
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65fecba6f3997cec0800000000000000
+      internalID: -3546697683878219946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_46
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 168
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8619a3fb0791332b0800000000000000
+      internalID: -5606109139110817432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_47
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 173
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce65dd9274ec5480800000000000000
+      internalID: -8908994781920268596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_48
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 173
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0a749302252b450800000000000000
+      internalID: 6103030743393870010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_49
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 169
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce8d12f84bf7d750800000000000000
+      internalID: 6329804092010761925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_50
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 180
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310773c7fd9cc8610800000000000000
+      internalID: 1624895527272804371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_51
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 105
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894a97b562ac84a00800000000000000
+      internalID: 741064404794713240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_52
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 105
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a05f8a079c28cdc0800000000000000
+      internalID: -3618593273363345241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_53
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 123
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385b0416ca4d8db30800000000000000
+      internalID: 4312430480038344067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_54
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 105
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265c4263e31392b90800000000000000
+      internalID: -7266222380519471774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_55
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 105
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1152f2fd867bd2d30800000000000000
+      internalID: 4408381271314474257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_56
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 105
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f3cb2e6f6268c20800000000000000
+      internalID: 3208294626355855127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_57
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 123
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c30290c5cb94680800000000000000
+      internalID: -8770271695851209657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_58
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 105
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db65f603d136c1030800000000000000
+      internalID: 3466754790186243773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_59
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 105
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1dccd2cafc67c40800000000000000
+      internalID: 5509819532544102859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_60
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 100
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b4bbd143ad00b60800000000000000
+      internalID: 7710402479430257547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_61
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 105
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dcbc4f438099cf80800000000000000
+      internalID: -8085772762321470252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_62
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 123
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d6e0e7dcc80b740800000000000000
+      internalID: 5165783586805017976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_63
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 105
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35450b0661865c9b0800000000000000
+      internalID: -5060524160960146349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_64
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 105
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ad2f05702c3e230800000000000000
+      internalID: 3666987858288368177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_65
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 105
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b8fbcd2f8163da0800000000000000
+      internalID: -5965553225040950491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_66
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 105
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40737377b9d4eb620800000000000000
+      internalID: 2791754149131663108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_67
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 105
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfca7c4233187270800000000000000
+      internalID: 8248363824281472955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_68
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 105
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41598d9c14f4341a0800000000000000
+      internalID: -6826525466185657068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_69
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 123
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bde1a34c818fbba0800000000000000
+      internalID: -6070991333242049098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_70
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 105
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378621bd4f19994a0800000000000000
+      internalID: -6586072499219175309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_71
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 105
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fbd12d707f4abb0800000000000000
+      internalID: -4925540479474483333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_72
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 105
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b94d81d93266d90800000000000000
+      internalID: -7104952204496954526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_73
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 105
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e290261ecdd9d9e0800000000000000
+      internalID: -1596000715721895193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_74
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 105
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e3e55de9f6e37e0800000000000000
+      internalID: -1783865674416898537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_75
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 105
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47062a9a973841a50800000000000000
+      internalID: 6490957521507999860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_76
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 105
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1141bb08fb9cb1350800000000000000
+      internalID: 5988601953854886929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_77
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 105
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6e9a397d9bed6a0800000000000000
+      internalID: -6422491683037255950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_78
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 123
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447debd8cae029cc0800000000000000
+      internalID: -3705883409097238716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_79
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 105
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0ba160202f47580800000000000000
+      internalID: -8830166878860431154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_80
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 100
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a229f37a146dfce60800000000000000
+      internalID: 7984836241818358314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_81
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 105
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8203b46d74cdde0800000000000000
+      internalID: -1307090806134265630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_82
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 105
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150a01f4581142630800000000000000
+      internalID: 3901262441464504401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_83
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 105
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b490dc5905a857890800000000000000
+      internalID: -7460905128954099381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_84
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 100
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30182d5cf2b97c690800000000000000
+      internalID: -7581920818170265341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_85
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 123
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c703eb4d0cfb3c0800000000000000
+      internalID: -4341539495805420435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_86
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 105
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1009e4457a0bb9e0800000000000000
+      internalID: -1604677343443877857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_87
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 105
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334d59a5b5ac43420800000000000000
+      internalID: 2608932577864963123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_88
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 123
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f88b7e23c193520800000000000000
+      internalID: 2682206058037415759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_89
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 105
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b190e06885b153e00800000000000000
+      internalID: 1023754557316794651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_90
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 105
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a11c1cce20498f60800000000000000
+      internalID: 8037025579756425635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_91
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 105
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4e83845cfbe62e0800000000000000
+      internalID: -2130554719658515223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_92
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 105
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8f4d6656ec5fb30800000000000000
+      internalID: 4320586352444111023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_93
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 105
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4301539fe32e7abc0800000000000000
+      internalID: -3771797402802646988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_94
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 105
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f60fae2c1442a160800000000000000
+      internalID: 7035260455739131635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_95
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 105
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe5b5679aef8f660800000000000000
+      internalID: 7419960389881519869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_96
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 105
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c87b0bd531e6d40800000000000000
+      internalID: 5579418281476328548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_97
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 105
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ed309ecfcbdfa20800000000000000
+      internalID: 3097839913127894529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_98
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 105
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c10eccccfd813c70800000000000000
+      internalID: 8949090051469214152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_99
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 105
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef33b6b4422922b10800000000000000
+      internalID: 1955285872814011390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_100
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 112
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62380b1e15b60da60800000000000000
+      internalID: 7696769762599142182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_101
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 89
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444a400535f0ed100800000000000000
+      internalID: 134561889366877252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_102
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 71
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a647d5d48fa80d60800000000000000
+      internalID: 7856722535006029478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_103
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 71
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6e9a4c7c3ff5630800000000000000
+      internalID: 3918118240159131387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_104
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 71
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46293cbb458ea9c50800000000000000
+      internalID: 6672901248527864420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_105
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 71
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe674d50ac792a2b0800000000000000
+      internalID: -5574726494794254609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_106
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 71
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b0a037221473260800000000000000
+      internalID: 7077196955650755485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_107
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 71
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6988008c83b4bc9f0800000000000000
+      internalID: -447181030747502442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_108
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 71
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5b2adcf36a95e40800000000000000
+      internalID: 5645726400848770477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_109
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 89
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67db3cc502e3e8b70800000000000000
+      internalID: 8903121822074256758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_110
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 71
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df12f9635dc531a0800000000000000
+      internalID: -6830327501694033967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_111
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 71
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2542da825b37e65e0800000000000000
+      internalID: -1914465569677171630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_112
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd957569393f0f00800000000000000
+      internalID: 1085148953897704923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_113
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589313b3ccd8869d0800000000000000
+      internalID: -2780816861595354747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_114
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 38
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ef5cf2f1f6cbc10800000000000000
+      internalID: 2070652108419759737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_115
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 38
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab68f310d3c313a0800000000000000
+      internalID: -6695792922514134098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_116
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 56
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fe8893255885990800000000000000
+      internalID: -7397015799756951808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_117
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 38
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22cce4d255adda6d0800000000000000
+      internalID: -2977483719254815710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_118
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 38
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2031d408e4467fd0800000000000000
+      internalID: -2344610792695844818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_119
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 38
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe56c72de15273790800000000000000
+      internalID: -7550525435952732689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_120
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 38
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9808a91f9b684b50800000000000000
+      internalID: 6577625586849024154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_121
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 38
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89043ea441a79b70800000000000000
+      internalID: 8905764104500939147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_122
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 33
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888358cc965648a10800000000000000
+      internalID: 1910763646989187208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_123
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 56
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c232d4e68e101ba0800000000000000
+      internalID: -6120358328883072312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_124
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 38
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640ef5d9236269400800000000000000
+      internalID: 330493621488836678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_125
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 38
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978297500a824d7a0800000000000000
+      internalID: -6353408506561222535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_126
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 38
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8370c5b89631e60800000000000000
+      internalID: 7931799415994923176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_127
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 38
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db1594a705a9de10800000000000000
+      internalID: 2222989343328639954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_128
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 38
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57e705156c318160800000000000000
+      internalID: 7025963298516887387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_129
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 56
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23981743d37689490800000000000000
+      internalID: -7739322447065675470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_130
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 38
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506036c937084cf70800000000000000
+      internalID: 9206624772285466117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_131
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 38
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5661d4c731fb7b610800000000000000
+      internalID: 1636987079983175269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_132
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 33
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca1a9e9e15eb2550800000000000000
+      internalID: 6137250836895111880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_133
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 38
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734320d91fcdd0670800000000000000
+      internalID: 8506698201452131383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_134
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 38
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005fb9954d8daada0800000000000000
+      internalID: -5932691152559147776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_135
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 38
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d4a6e339a933330800000000000000
+      internalID: 3689462476944592267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_136
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 38
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77db6fa58597ca8c0800000000000000
+      internalID: -3986678149739528841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_137
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 38
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f50949db65aa2430800000000000000
+      internalID: 3758998721619625464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_138
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 38
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a6f2e8a5c6a4e30800000000000000
+      internalID: 4488519114816449093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_139
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 38
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1e4437276214100800000000000000
+      internalID: 90395740526141942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_140
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 38
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824a1c53098e400b0800000000000000
+      internalID: -5763225917052574680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_141
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 38
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3f19ac1454f6b10800000000000000
+      internalID: 1976874910312690596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_142
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 38
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089394420e07bd230800000000000000
+      internalID: 3664646829779794304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_143
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 38
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9f881999f8a9c40800000000000000
+      internalID: 5519882183030405589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_144
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 56
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd616756cebbf5d0800000000000000
+      internalID: -3027616565397721661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_145
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 38
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c187bec4f0f209b80800000000000000
+      internalID: -8390154363029719012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_146
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 33
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77fad19c6e729a2e0800000000000000
+      internalID: -2114114677903609993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_147
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 38
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fe85f9677c575d0800000000000000
+      internalID: -3065324659062280323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_148
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 38
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fafb905a8bf1f080800000000000000
+      internalID: -9155259995991049479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_149
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 38
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f671ec382e95e2f10800000000000000
+      internalID: 2246832093513258863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_150
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 38
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb608fd7aa4232c20800000000000000
+      internalID: 3180426076530149052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_151
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 38
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6ea0b5fc31bcc50800000000000000
+      internalID: 6686459853068232354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_152
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 38
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207ef9b78de2f0e90800000000000000
+      internalID: -7057370583744387326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_153
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 38
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518fcfdc915883130800000000000000
+      internalID: 3546731052430850069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_154
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 38
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273e01df1d3f12490800000000000000
+      internalID: -7772663398645308558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_155
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 38
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5aadd350daba7f20800000000000000
+      internalID: 3421252270864312927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_156
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 38
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1921dff48483c13c0800000000000000
+      internalID: -4387570053734919535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_157
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 38
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c927c1574e101b30800000000000000
+      internalID: 4255934939528636866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_158
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 38
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f6297f8e39bf370800000000000000
+      internalID: 8357436162311352143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_159
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 56
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32ae290df618eac0800000000000000
+      internalID: -3825782607414648262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_160
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 38
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a149f5c059b6330800000000000000
+      internalID: 3705218998818052703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_161
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 38
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b24b78a56bafcd70800000000000000
+      internalID: 9065653028026794680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_162
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 38
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5f8f3c06d3d2cb0800000000000000
+      internalID: -4887182534813092425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_163
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 45
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9b45ab80140e370800000000000000
+      internalID: 8349745214886558153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_164
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 4
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c510c59c9d90c850800000000000000
+      internalID: 6395284766718956993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_165
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 4
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36cbcabc282ce9960800000000000000
+      internalID: 7610734287321349219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_166
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 4
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a473c3d05e648bf0800000000000000
+      internalID: -323011979834592096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_167
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 4
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364b9355254510890800000000000000
+      internalID: -7493615592373898141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_168
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 4
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1146f696b5127620800000000000000
+      internalID: 2770300594747228446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_169
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 4
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96668128142e22d90800000000000000
+      internalID: -7123882889563314583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_170
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 4
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1addfb2238fe8170800000000000000
+      internalID: 8182750467348879901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_171
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 4
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6eb9d5d2ca219e0800000000000000
+      internalID: -1652068802447546654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_172
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 4
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0364b3366a60e2240800000000000000
+      internalID: 4768756367131100720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_173
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 22
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7bc24ea2528fc70800000000000000
+      internalID: 9004988321074296767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_174
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 4
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16785f42308c58280800000000000000
+      internalID: -9041600761045874847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_175
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 4
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea2020bbcfa8b520800000000000000
+      internalID: 2718115664486214368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_176
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 22
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8a6b5b03e6eeb00800000000000000
+      internalID: 859745734360475867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_177
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 4
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972ca1a88e58e82e0800000000000000
+      internalID: -2121611140649008519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_178
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 4
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9925f6a1fae6665b0800000000000000
+      internalID: -5375487406878272871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_179
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 4
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c812d4997ef0240800000000000000
+      internalID: 4760277976763960379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_180
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 4
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e77146ede7573ac0800000000000000
+      internalID: -3875532275047106591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_181
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 4
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16724b976f9b67330800000000000000
+      internalID: 3708355811441125217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_182
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 4
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7280d6fbc0c020d70800000000000000
+      internalID: 9007775453585147943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_183
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 4
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2b52712db892a90800000000000000
+      internalID: -7338180383375773000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_184
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 0
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fabdb67dd95d2400800000000000000
+      internalID: 300995557818481395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_185
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 22
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757633afafccdde90800000000000000
+      internalID: -6999212867552319657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_186
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 4
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b859285af6a04d0800000000000000
+      internalID: -3167596631250597070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_187
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 4
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aff157cef2f397d0800000000000000
+      internalID: -2912717357898924121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_188
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 22
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac393c6150f374c00800000000000000
+      internalID: 884745142890894282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_189
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 4
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8523d4fb8dc5d53f0800000000000000
+      internalID: -910469463666773416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_190
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 4
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b398dd14e18d70c00800000000000000
+      internalID: 866899077757765947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_191
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 4
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a2e56c262a5ea10800000000000000
+      internalID: 1938133759771421320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_192
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 0
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe21e09fbecda710800000000000000
+      internalID: 1706247156008038137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_193
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 18
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246fac90a8ec851c0800000000000000
+      internalID: -4514631534173817278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: How to Play Text_194
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 4
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc86990a14a052c0800000000000000
+      internalID: -4444872400477713222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      How to Play Text_0: -3033639705366583002
+      How to Play Text_1: -8259579099889955026
+      How to Play Text_10: 1153979385226094923
+      How to Play Text_100: 7696769762599142182
+      How to Play Text_101: 134561889366877252
+      How to Play Text_102: 7856722535006029478
+      How to Play Text_103: 3918118240159131387
+      How to Play Text_104: 6672901248527864420
+      How to Play Text_105: -5574726494794254609
+      How to Play Text_106: 7077196955650755485
+      How to Play Text_107: -447181030747502442
+      How to Play Text_108: 5645726400848770477
+      How to Play Text_109: 8903121822074256758
+      How to Play Text_11: 9135638081609781396
+      How to Play Text_110: -6830327501694033967
+      How to Play Text_111: -1914465569677171630
+      How to Play Text_112: 1085148953897704923
+      How to Play Text_113: -2780816861595354747
+      How to Play Text_114: 2070652108419759737
+      How to Play Text_115: -6695792922514134098
+      How to Play Text_116: -7397015799756951808
+      How to Play Text_117: -2977483719254815710
+      How to Play Text_118: -2344610792695844818
+      How to Play Text_119: -7550525435952732689
+      How to Play Text_12: 4720054073053019835
+      How to Play Text_120: 6577625586849024154
+      How to Play Text_121: 8905764104500939147
+      How to Play Text_122: 1910763646989187208
+      How to Play Text_123: -6120358328883072312
+      How to Play Text_124: 330493621488836678
+      How to Play Text_125: -6353408506561222535
+      How to Play Text_126: 7931799415994923176
+      How to Play Text_127: 2222989343328639954
+      How to Play Text_128: 7025963298516887387
+      How to Play Text_129: -7739322447065675470
+      How to Play Text_13: -6898791005335865101
+      How to Play Text_130: 9206624772285466117
+      How to Play Text_131: 1636987079983175269
+      How to Play Text_132: 6137250836895111880
+      How to Play Text_133: 8506698201452131383
+      How to Play Text_134: -5932691152559147776
+      How to Play Text_135: 3689462476944592267
+      How to Play Text_136: -3986678149739528841
+      How to Play Text_137: 3758998721619625464
+      How to Play Text_138: 4488519114816449093
+      How to Play Text_139: 90395740526141942
+      How to Play Text_14: -8757885283423084813
+      How to Play Text_140: -5763225917052574680
+      How to Play Text_141: 1976874910312690596
+      How to Play Text_142: 3664646829779794304
+      How to Play Text_143: 5519882183030405589
+      How to Play Text_144: -3027616565397721661
+      How to Play Text_145: -8390154363029719012
+      How to Play Text_146: -2114114677903609993
+      How to Play Text_147: -3065324659062280323
+      How to Play Text_148: -9155259995991049479
+      How to Play Text_149: 2246832093513258863
+      How to Play Text_15: -7378059736184268598
+      How to Play Text_150: 3180426076530149052
+      How to Play Text_151: 6686459853068232354
+      How to Play Text_152: -7057370583744387326
+      How to Play Text_153: 3546731052430850069
+      How to Play Text_154: -7772663398645308558
+      How to Play Text_155: 3421252270864312927
+      How to Play Text_156: -4387570053734919535
+      How to Play Text_157: 4255934939528636866
+      How to Play Text_158: 8357436162311352143
+      How to Play Text_159: -3825782607414648262
+      How to Play Text_16: -282907658894075773
+      How to Play Text_160: 3705218998818052703
+      How to Play Text_161: 9065653028026794680
+      How to Play Text_162: -4887182534813092425
+      How to Play Text_163: 8349745214886558153
+      How to Play Text_164: 6395284766718956993
+      How to Play Text_165: 7610734287321349219
+      How to Play Text_166: -323011979834592096
+      How to Play Text_167: -7493615592373898141
+      How to Play Text_168: 2770300594747228446
+      How to Play Text_169: -7123882889563314583
+      How to Play Text_17: -7347567252264735321
+      How to Play Text_170: 8182750467348879901
+      How to Play Text_171: -1652068802447546654
+      How to Play Text_172: 4768756367131100720
+      How to Play Text_173: 9004988321074296767
+      How to Play Text_174: -9041600761045874847
+      How to Play Text_175: 2718115664486214368
+      How to Play Text_176: 859745734360475867
+      How to Play Text_177: -2121611140649008519
+      How to Play Text_178: -5375487406878272871
+      How to Play Text_179: 4760277976763960379
+      How to Play Text_18: 3381623163696571845
+      How to Play Text_180: -3875532275047106591
+      How to Play Text_181: 3708355811441125217
+      How to Play Text_182: 9007775453585147943
+      How to Play Text_183: -7338180383375773000
+      How to Play Text_184: 300995557818481395
+      How to Play Text_185: -6999212867552319657
+      How to Play Text_186: -3167596631250597070
+      How to Play Text_187: -2912717357898924121
+      How to Play Text_188: 884745142890894282
+      How to Play Text_189: -910469463666773416
+      How to Play Text_19: 389105258174689332
+      How to Play Text_190: 866899077757765947
+      How to Play Text_191: 1938133759771421320
+      How to Play Text_192: 1706247156008038137
+      How to Play Text_193: -4514631534173817278
+      How to Play Text_194: -4444872400477713222
+      How to Play Text_2: -8899401648650430044
+      How to Play Text_20: -4129918546554279814
+      How to Play Text_21: 7315712025799420267
+      How to Play Text_22: -754340546234149223
+      How to Play Text_23: 3024426302901025523
+      How to Play Text_24: -8230135790055661425
+      How to Play Text_25: 1432283138680013845
+      How to Play Text_26: -3650323066526719682
+      How to Play Text_27: -7471459846724987922
+      How to Play Text_28: -3500744710048625373
+      How to Play Text_29: -7609282228998448471
+      How to Play Text_3: -1162626721779037374
+      How to Play Text_30: -4503836335037190268
+      How to Play Text_31: -4218517236798957961
+      How to Play Text_32: 5260695978745803015
+      How to Play Text_33: 8009901961450802228
+      How to Play Text_34: -6479969072999285212
+      How to Play Text_35: 5903457843835911773
+      How to Play Text_36: 9092428348573650933
+      How to Play Text_37: 6682059606645190658
+      How to Play Text_38: -86689844615732689
+      How to Play Text_39: 5567186071752780752
+      How to Play Text_4: 5016666442701510410
+      How to Play Text_40: -7708230177146137503
+      How to Play Text_41: -3120672694763725499
+      How to Play Text_42: -5640498602211324781
+      How to Play Text_43: 8258775258263856548
+      How to Play Text_44: -7361310892465968831
+      How to Play Text_45: -3546697683878219946
+      How to Play Text_46: -5606109139110817432
+      How to Play Text_47: -8908994781920268596
+      How to Play Text_48: 6103030743393870010
+      How to Play Text_49: 6329804092010761925
+      How to Play Text_5: -8061400793574785603
+      How to Play Text_50: 1624895527272804371
+      How to Play Text_51: 741064404794713240
+      How to Play Text_52: -3618593273363345241
+      How to Play Text_53: 4312430480038344067
+      How to Play Text_54: -7266222380519471774
+      How to Play Text_55: 4408381271314474257
+      How to Play Text_56: 3208294626355855127
+      How to Play Text_57: -8770271695851209657
+      How to Play Text_58: 3466754790186243773
+      How to Play Text_59: 5509819532544102859
+      How to Play Text_6: 8334286447129917948
+      How to Play Text_60: 7710402479430257547
+      How to Play Text_61: -8085772762321470252
+      How to Play Text_62: 5165783586805017976
+      How to Play Text_63: -5060524160960146349
+      How to Play Text_64: 3666987858288368177
+      How to Play Text_65: -5965553225040950491
+      How to Play Text_66: 2791754149131663108
+      How to Play Text_67: 8248363824281472955
+      How to Play Text_68: -6826525466185657068
+      How to Play Text_69: -6070991333242049098
+      How to Play Text_7: -97841728618500942
+      How to Play Text_70: -6586072499219175309
+      How to Play Text_71: -4925540479474483333
+      How to Play Text_72: -7104952204496954526
+      How to Play Text_73: -1596000715721895193
+      How to Play Text_74: -1783865674416898537
+      How to Play Text_75: 6490957521507999860
+      How to Play Text_76: 5988601953854886929
+      How to Play Text_77: -6422491683037255950
+      How to Play Text_78: -3705883409097238716
+      How to Play Text_79: -8830166878860431154
+      How to Play Text_8: 6877947393106041846
+      How to Play Text_80: 7984836241818358314
+      How to Play Text_81: -1307090806134265630
+      How to Play Text_82: 3901262441464504401
+      How to Play Text_83: -7460905128954099381
+      How to Play Text_84: -7581920818170265341
+      How to Play Text_85: -4341539495805420435
+      How to Play Text_86: -1604677343443877857
+      How to Play Text_87: 2608932577864963123
+      How to Play Text_88: 2682206058037415759
+      How to Play Text_89: 1023754557316794651
+      How to Play Text_9: 8992182801472071415
+      How to Play Text_90: 8037025579756425635
+      How to Play Text_91: -2130554719658515223
+      How to Play Text_92: 4320586352444111023
+      How to Play Text_93: -3771797402802646988
+      How to Play Text_94: 7035260455739131635
+      How to Play Text_95: 7419960389881519869
+      How to Play Text_96: 5579418281476328548
+      How to Play Text_97: 3097839913127894529
+      How to Play Text_98: 8949090051469214152
+      How to Play Text_99: 1955285872814011390
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

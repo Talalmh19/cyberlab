@@ -1,0 +1,6 @@
+“Perform interactive tasks, decision-making challenges
+
+Phishing Simulation - Identify suspicious elements
+in an email.
+Social Engineering Encounter - Navigate a conversation
+to assess a visitor's legitimacy.”

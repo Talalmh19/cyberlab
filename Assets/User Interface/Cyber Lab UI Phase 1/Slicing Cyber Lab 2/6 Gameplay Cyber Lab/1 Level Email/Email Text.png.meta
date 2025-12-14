@@ -1,0 +1,4030 @@
+fileFormatVersion: 2
+guid: 5f6623323c80c524dbcc30fabcc33a35
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6315392508492389626
+    second: Email Text_0
+  - first:
+      213: -1418395736235268386
+    second: Email Text_1
+  - first:
+      213: 988667223187878990
+    second: Email Text_2
+  - first:
+      213: -5019924729067252391
+    second: Email Text_3
+  - first:
+      213: -1047471685423479068
+    second: Email Text_4
+  - first:
+      213: -4133024173590152137
+    second: Email Text_5
+  - first:
+      213: -7375594345673824756
+    second: Email Text_6
+  - first:
+      213: -520961788778957620
+    second: Email Text_7
+  - first:
+      213: 3545241464771452769
+    second: Email Text_8
+  - first:
+      213: -5275037035230062371
+    second: Email Text_9
+  - first:
+      213: 5486259207113816901
+    second: Email Text_10
+  - first:
+      213: 6577590915556241274
+    second: Email Text_11
+  - first:
+      213: 5463227439340355442
+    second: Email Text_12
+  - first:
+      213: -4029479831042553978
+    second: Email Text_13
+  - first:
+      213: -8639933623602032206
+    second: Email Text_14
+  - first:
+      213: -1353977937677104179
+    second: Email Text_15
+  - first:
+      213: 2054269536220942523
+    second: Email Text_16
+  - first:
+      213: -8978911538050547730
+    second: Email Text_17
+  - first:
+      213: 7460268857616233530
+    second: Email Text_18
+  - first:
+      213: 8057779279685910330
+    second: Email Text_19
+  - first:
+      213: 7544868687569504876
+    second: Email Text_20
+  - first:
+      213: 846032470374254578
+    second: Email Text_21
+  - first:
+      213: -4109541280976380896
+    second: Email Text_22
+  - first:
+      213: -5897542114326177664
+    second: Email Text_23
+  - first:
+      213: -4500348101633714237
+    second: Email Text_24
+  - first:
+      213: -4409044338758067758
+    second: Email Text_25
+  - first:
+      213: 1972262006643545849
+    second: Email Text_26
+  - first:
+      213: 1633229571240181848
+    second: Email Text_27
+  - first:
+      213: 3718686364888538431
+    second: Email Text_28
+  - first:
+      213: 380773740969726941
+    second: Email Text_29
+  - first:
+      213: -3696572938675587092
+    second: Email Text_30
+  - first:
+      213: 5119988298163725999
+    second: Email Text_31
+  - first:
+      213: 6664050967596080588
+    second: Email Text_32
+  - first:
+      213: 6965764465793006652
+    second: Email Text_33
+  - first:
+      213: 5265514557902256715
+    second: Email Text_34
+  - first:
+      213: -5188092019542360001
+    second: Email Text_35
+  - first:
+      213: -4745118743037120077
+    second: Email Text_36
+  - first:
+      213: -2321324671167962801
+    second: Email Text_37
+  - first:
+      213: 7005916202253649694
+    second: Email Text_38
+  - first:
+      213: -7796517018452821681
+    second: Email Text_39
+  - first:
+      213: -3559281006599010403
+    second: Email Text_40
+  - first:
+      213: 1091317369686148429
+    second: Email Text_41
+  - first:
+      213: 4262452530486203396
+    second: Email Text_42
+  - first:
+      213: 6887911254887482365
+    second: Email Text_43
+  - first:
+      213: -5399202286364812385
+    second: Email Text_44
+  - first:
+      213: 9019554780108450860
+    second: Email Text_45
+  - first:
+      213: 4192993569554558116
+    second: Email Text_46
+  - first:
+      213: -8922265527912555331
+    second: Email Text_47
+  - first:
+      213: -8938115787891380511
+    second: Email Text_48
+  - first:
+      213: -171594871651555716
+    second: Email Text_49
+  - first:
+      213: 2353842979160094587
+    second: Email Text_50
+  - first:
+      213: -5843183641848719092
+    second: Email Text_51
+  - first:
+      213: 5267839480506138262
+    second: Email Text_52
+  - first:
+      213: -1199151468815725783
+    second: Email Text_53
+  - first:
+      213: 4570742191702560324
+    second: Email Text_54
+  - first:
+      213: -85586612939969487
+    second: Email Text_55
+  - first:
+      213: 8365479992867286071
+    second: Email Text_56
+  - first:
+      213: -5724002734379411925
+    second: Email Text_57
+  - first:
+      213: 6926662466843933057
+    second: Email Text_58
+  - first:
+      213: -1023092821532759477
+    second: Email Text_59
+  - first:
+      213: -6273524644149877255
+    second: Email Text_60
+  - first:
+      213: -3709806409319370510
+    second: Email Text_61
+  - first:
+      213: -254837536677797927
+    second: Email Text_62
+  - first:
+      213: -7113280638533801001
+    second: Email Text_63
+  - first:
+      213: 423330183887446566
+    second: Email Text_64
+  - first:
+      213: -8587084753769136408
+    second: Email Text_65
+  - first:
+      213: 1732934154525999344
+    second: Email Text_66
+  - first:
+      213: 6784732184451110801
+    second: Email Text_67
+  - first:
+      213: 8344508908644401926
+    second: Email Text_68
+  - first:
+      213: 602097285058461718
+    second: Email Text_69
+  - first:
+      213: 7752854505655901481
+    second: Email Text_70
+  - first:
+      213: 2431951429054253965
+    second: Email Text_71
+  - first:
+      213: -5952092377223777437
+    second: Email Text_72
+  - first:
+      213: 7122700543332830010
+    second: Email Text_73
+  - first:
+      213: 7887618427638563850
+    second: Email Text_74
+  - first:
+      213: -7206571939567365559
+    second: Email Text_75
+  - first:
+      213: 863522329361892239
+    second: Email Text_76
+  - first:
+      213: 583729404643150663
+    second: Email Text_77
+  - first:
+      213: 7843985704239894724
+    second: Email Text_78
+  - first:
+      213: 5364665839253050178
+    second: Email Text_79
+  - first:
+      213: 7034942886461386513
+    second: Email Text_80
+  - first:
+      213: 7619015576714992721
+    second: Email Text_81
+  - first:
+      213: -5773187387719353278
+    second: Email Text_82
+  - first:
+      213: 1833884292240073476
+    second: Email Text_83
+  - first:
+      213: -4392836279366988026
+    second: Email Text_84
+  - first:
+      213: 4820326931831717029
+    second: Email Text_85
+  - first:
+      213: -6292883889059782384
+    second: Email Text_86
+  - first:
+      213: 4330409377488426708
+    second: Email Text_87
+  - first:
+      213: -7435610900423041730
+    second: Email Text_88
+  - first:
+      213: 7480510264744428867
+    second: Email Text_89
+  - first:
+      213: 8914913151315341325
+    second: Email Text_90
+  - first:
+      213: -4694239220726541203
+    second: Email Text_91
+  - first:
+      213: 3810488818277652486
+    second: Email Text_92
+  - first:
+      213: 7043049244351859238
+    second: Email Text_93
+  - first:
+      213: -5380434667457857197
+    second: Email Text_94
+  - first:
+      213: 8426213761276570138
+    second: Email Text_95
+  - first:
+      213: -7656798419274940131
+    second: Email Text_96
+  - first:
+      213: 6613352415676042578
+    second: Email Text_97
+  - first:
+      213: -2391719628021116981
+    second: Email Text_98
+  - first:
+      213: -9072100103986168330
+    second: Email Text_99
+  - first:
+      213: 3130428578638832743
+    second: Email Text_100
+  - first:
+      213: 7009156941963431837
+    second: Email Text_101
+  - first:
+      213: 936519965657031553
+    second: Email Text_102
+  - first:
+      213: -5139971902689314314
+    second: Email Text_103
+  - first:
+      213: -458394476213018289
+    second: Email Text_104
+  - first:
+      213: 1282238629656084405
+    second: Email Text_105
+  - first:
+      213: 5643646634181859052
+    second: Email Text_106
+  - first:
+      213: -5618336039152776122
+    second: Email Text_107
+  - first:
+      213: -9198721420436889778
+    second: Email Text_108
+  - first:
+      213: -8416144527522204798
+    second: Email Text_109
+  - first:
+      213: 615579599921162986
+    second: Email Text_110
+  - first:
+      213: -4929031247348500395
+    second: Email Text_111
+  - first:
+      213: -5981439393122022752
+    second: Email Text_112
+  - first:
+      213: -9018403086369819844
+    second: Email Text_113
+  - first:
+      213: 101150205972335987
+    second: Email Text_114
+  - first:
+      213: -8317462653463571512
+    second: Email Text_115
+  - first:
+      213: -7974677473706577632
+    second: Email Text_116
+  - first:
+      213: -9058181255204365309
+    second: Email Text_117
+  - first:
+      213: -3614862215393918741
+    second: Email Text_118
+  - first:
+      213: 2019266060745844415
+    second: Email Text_119
+  - first:
+      213: -5205292129040296819
+    second: Email Text_120
+  - first:
+      213: 1247526692806133998
+    second: Email Text_121
+  - first:
+      213: 8347850981301105139
+    second: Email Text_122
+  - first:
+      213: -2989554635893951442
+    second: Email Text_123
+  - first:
+      213: 1573792536977443210
+    second: Email Text_124
+  - first:
+      213: 9066688109137657861
+    second: Email Text_125
+  - first:
+      213: 3664788575186998404
+    second: Email Text_126
+  - first:
+      213: 3526217624030332865
+    second: Email Text_127
+  - first:
+      213: 8388650729080034791
+    second: Email Text_128
+  - first:
+      213: -5801783796176141744
+    second: Email Text_129
+  - first:
+      213: -2069856983570044271
+    second: Email Text_130
+  - first:
+      213: 5331831283260869909
+    second: Email Text_131
+  - first:
+      213: 1793799830897123578
+    second: Email Text_132
+  - first:
+      213: 6647491747978019473
+    second: Email Text_133
+  - first:
+      213: -7257864787850330729
+    second: Email Text_134
+  - first:
+      213: 993422519831113909
+    second: Email Text_135
+  - first:
+      213: 5132634986514617970
+    second: Email Text_136
+  - first:
+      213: -3066380607871433020
+    second: Email Text_137
+  - first:
+      213: 2785183609558824060
+    second: Email Text_138
+  - first:
+      213: -1318130066449246280
+    second: Email Text_139
+  - first:
+      213: 2248429515664825810
+    second: Email Text_140
+  - first:
+      213: -2790654492042133215
+    second: Email Text_141
+  - first:
+      213: 5820616684071353832
+    second: Email Text_142
+  - first:
+      213: -1514797615833604119
+    second: Email Text_143
+  - first:
+      213: 7308373702117296468
+    second: Email Text_144
+  - first:
+      213: -413931305607643554
+    second: Email Text_145
+  - first:
+      213: 4170175951822592099
+    second: Email Text_146
+  - first:
+      213: 1844695532991441360
+    second: Email Text_147
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Linux64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Email Text_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 207
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc1adda608c4a750800000000000000
+      internalID: 6315392508492389626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 207
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6a4c6c798d05ce0800000000000000
+      internalID: -1418395736235268386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 207
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e447f2fe99378bd00800000000000000
+      internalID: 988667223187878990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 213
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9555fbc3e05a55ab0800000000000000
+      internalID: -5019924729067252391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_4
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 207
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6cd064d02a671f0800000000000000
+      internalID: -1047471685423479068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 173
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c7e0d696c84a6c0800000000000000
+      internalID: -4133024173590152137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_6
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 173
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c066bba2500a4a990800000000000000
+      internalID: -7375594345673824756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_7
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 173
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc43746630c25c8f0800000000000000
+      internalID: -520961788778957620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_8
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 173
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f10b6245a333130800000000000000
+      internalID: 3545241464771452769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_9
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 173
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8151ac3cd4bc6b0800000000000000
+      internalID: -5275037035230062371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_10
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 173
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b3cb17eab132c40800000000000000
+      internalID: 5486259207113816901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_11
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 173
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fe09f861c484b50800000000000000
+      internalID: 6577590915556241274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 173
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f7c01296841db40800000000000000
+      internalID: 5463227439340355442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_13
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 173
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6878b1951796418c0800000000000000
+      internalID: -4029479831042553978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_14
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 173
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b15f3a452ac81880800000000000000
+      internalID: -8639933623602032206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_15
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 173
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb4a074d34b53de0800000000000000
+      internalID: -1353977937677104179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_16
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 168
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb01b5b524b328c10800000000000000
+      internalID: 2054269536220942523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_17
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 191
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef37d8478f746380800000000000000
+      internalID: -8978911538050547730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_18
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 173
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34ff13fff2388760800000000000000
+      internalID: 7460268857616233530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_19
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 173
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f7e2c109bf2df60800000000000000
+      internalID: 8057779279685910330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_20
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 173
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a4c8fc812c4b860800000000000000
+      internalID: 7544868687569504876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_21
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 173
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f78a11ac06bdbb00800000000000000
+      internalID: 846032470374254578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_22
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 173
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c599d6af9f7f6c0800000000000000
+      internalID: -4109541280976380896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_23
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 173
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0889eab81b8b72ea0800000000000000
+      internalID: -5897542114326177664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_24
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 173
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7d484de3d8b81c0800000000000000
+      internalID: -4500348101633714237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_25
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 173
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9d065b88defc2c0800000000000000
+      internalID: -4409044338758067758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_26
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 173
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6dcf578d1ee5b10800000000000000
+      internalID: 1972262006643545849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_27
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 173
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8504f6e44a56aa610800000000000000
+      internalID: 1633229571240181848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_28
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 173
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d1542eb8d6b9330800000000000000
+      internalID: 3718686364888538431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_29
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 173
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd31c4233b7c84500800000000000000
+      internalID: 380773740969726941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_30
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 173
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce77bef5f7223bcc0800000000000000
+      internalID: -3696572938675587092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_31
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 173
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6a436fa3add0740800000000000000
+      internalID: 5119988298163725999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_32
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 173
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd99a02c077b7c50800000000000000
+      internalID: 6664050967596080588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_33
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 191
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c71ac10ed5ba060800000000000000
+      internalID: 6965764465793006652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_34
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 173
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a796fa79dd21940800000000000000
+      internalID: 5265514557902256715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_35
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 168
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f308321cbc13008b0800000000000000
+      internalID: -5188092019542360001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_36
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 173
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b17938d4a3f52eb0800000000000000
+      internalID: -4745118743037120077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_37
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 173
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41eeaea28ff8cfd0800000000000000
+      internalID: -2321324671167962801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_38
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 168
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e178b71caa30a3160800000000000000
+      internalID: 7005916202253649694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_39
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 173
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49f4d554153dc390800000000000000
+      internalID: -7796517018452821681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_40
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 173
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d970fd948c4ea9ec0800000000000000
+      internalID: -3559281006599010403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_41
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 173
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d454b5d9d53252f00800000000000000
+      internalID: 1091317369686148429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_42
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 173
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40458973ef5472b30800000000000000
+      internalID: 4262452530486203396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_43
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 173
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3cbf7eac6c69f50800000000000000
+      internalID: 6887911254887482365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_44
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 173
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b9fb2702e2215b0800000000000000
+      internalID: -5399202286364812385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_45
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 173
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c6a8ce845eb2d70800000000000000
+      internalID: 9019554780108450860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_46
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 173
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acebc2af61803a30800000000000000
+      internalID: 4192993569554558116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_47
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 173
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc1f0946cebd2480800000000000000
+      internalID: -8922265527912555331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_48
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 173
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee6c6d0c0f65f380800000000000000
+      internalID: -8938115787891380511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c762ee59f5f5e9df0800000000000000
+      internalID: -171594871651555716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_50
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 139
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7772e5e7b78aa020800000000000000
+      internalID: 2353842979160094587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_51
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 139
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09db3eaf67d8eea0800000000000000
+      internalID: -5843183641848719092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_52
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 139
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69eb859e8102b1940800000000000000
+      internalID: 5267839480506138262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_53
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 139
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bc95da712cb5fe0800000000000000
+      internalID: -1199151468815725783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_54
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 139
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e42587ec98e6f30800000000000000
+      internalID: 4570742191702560324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_55
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 139
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c2f22dd6fefcef0800000000000000
+      internalID: -85586612939969487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_56
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 139
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ced763bb7281470800000000000000
+      internalID: 8365479992867286071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_57
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 139
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2653f317d14090b0800000000000000
+      internalID: -5724002734379411925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_58
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 139
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189734780d2702060800000000000000
+      internalID: 6926662466843933057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_59
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 139
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4aa948df7e3dc1f0800000000000000
+      internalID: -1023092821532759477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_60
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 139
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5a9cf1396ffe8a0800000000000000
+      internalID: -6273524644149877255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_61
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 134
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f03d03e9be148cc0800000000000000
+      internalID: -3709806409319370510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_62
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 139
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df52ee4c92a67cf0800000000000000
+      internalID: -254837536677797927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_63
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 139
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db678072fc884d90800000000000000
+      internalID: -7113280638533801001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_64
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 139
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622ef413f88ffd500800000000000000
+      internalID: 423330183887446566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_65
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 139
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eefa6ba9eb84d880800000000000000
+      internalID: -8587084753769136408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_66
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 139
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f00aab9e6e9c0810800000000000000
+      internalID: 1732934154525999344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_67
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 139
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1975e5689f5382e50800000000000000
+      internalID: 6784732184451110801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_68
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 139
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60305dc24a6adc370800000000000000
+      internalID: 8344508908644401926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_69
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 139
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610032c6a441b5800800000000000000
+      internalID: 602097285058461718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_70
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 139
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d18e4b81ca79b60800000000000000
+      internalID: 7752854505655901481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_71
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 139
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b48cf80f600c120800000000000000
+      internalID: 2431951429054253965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_72
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 139
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3633449b48be56da0800000000000000
+      internalID: -5952092377223777437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_73
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 139
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3bc5de086ae8d260800000000000000
+      internalID: 7122700543332830010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_74
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 139
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04c8376b23767d60800000000000000
+      internalID: 7887618427638563850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_75
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 139
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9421ac5c00d1dfb90800000000000000
+      internalID: -7206571939567365559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_76
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 139
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83cb31cbf8dbfb00800000000000000
+      internalID: 863522329361892239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_77
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 139
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b84b00dc2d91800800000000000000
+      internalID: 583729404643150663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_78
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 157
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c01674507f6bdc60800000000000000
+      internalID: 7843985704239894724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_79
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 139
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243d957582f137a40800000000000000
+      internalID: 5364665839253050178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_80
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 139
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f21b2584321a160800000000000000
+      internalID: 7034942886461386513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_81
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 139
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15cd34cbc4e2cb960800000000000000
+      internalID: 7619015576714992721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_82
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 139
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24cf83598a481efa0800000000000000
+      internalID: -5773187387719353278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_83
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 72
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40363262c04437910800000000000000
+      internalID: 1833884292240073476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_84
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 72
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fc1eb9da28903c0800000000000000
+      internalID: -4392836279366988026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_85
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 72
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5acf3192ecd35e240800000000000000
+      internalID: 4820326931831717029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_86
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 72
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01120dba17f2ba8a0800000000000000
+      internalID: -6292883889059782384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_87
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 67
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6d735a264b81c30800000000000000
+      internalID: 4330409377488426708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_88
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 72
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d134818476fc890800000000000000
+      internalID: -7435610900423041730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_89
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 72
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34541ccc37c10d760800000000000000
+      internalID: 7480510264744428867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_90
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 72
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00fb93274228bb70800000000000000
+      internalID: 8914913151315341325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_91
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 90
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6453e5cc46badeb0800000000000000
+      internalID: -4694239220726541203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_92
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 72
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6089902346391e430800000000000000
+      internalID: 3810488818277652486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_93
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 72
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a0d29d8ffedb160800000000000000
+      internalID: 7043049244351859238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_94
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 72
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3593afc3d2bd455b0800000000000000
+      internalID: -5380434667457857197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_95
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 72
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ae56a95ccefe470800000000000000
+      internalID: 8426213761276570138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_96
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 67
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d114856b7669db590800000000000000
+      internalID: -7656798419274940131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_97
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 72
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d87d6abf857cb50800000000000000
+      internalID: 6613352415676042578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_98
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 72
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcfc8719ba7eeced0800000000000000
+      internalID: -2391719628021116981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_99
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 72
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fdbe1f750d691280800000000000000
+      internalID: -9072100103986168330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_100
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 72
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764af70e434817b20800000000000000
+      internalID: 3130428578638832743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_101
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 72
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f81b44a17854160800000000000000
+      internalID: 7009156941963431837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_102
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 72
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1836c0662ff2ffc00800000000000000
+      internalID: 936519965657031553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_103
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 72
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9f6b889c62ba8b0800000000000000
+      internalID: -5139971902689314314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_104
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 72
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41625e07a473a9f0800000000000000
+      internalID: -458394476213018289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_105
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 72
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf3fe57d3d6bc110800000000000000
+      internalID: 1282238629656084405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_106
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 72
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce61d3466b2425e40800000000000000
+      internalID: 5643646634181859052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_107
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 72
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c068db329a702b0800000000000000
+      internalID: -5618336039152776122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_108
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 72
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f1513ea93975080800000000000000
+      internalID: -9198721420436889778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_109
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 72
+        width: 55
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283f0b29429d33b80800000000000000
+      internalID: -8416144527522204798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_110
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 72
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea2748726afa8800800000000000000
+      internalID: 615579599921162986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_111
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 72
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558fdf61230989bb0800000000000000
+      internalID: -4929031247348500395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_112
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 72
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa0f6f1098adfca0800000000000000
+      internalID: -5981439393122022752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_113
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 72
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33f3abac2238d280800000000000000
+      internalID: -9018403086369819844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_114
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 72
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d40ff839b576100800000000000000
+      internalID: 101150205972335987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_115
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 72
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3d9b3d8cf629c80800000000000000
+      internalID: -8317462653463571512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_116
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 72
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021f86dd611445190800000000000000
+      internalID: -7974677473706577632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_117
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 72
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c11740420ea4280800000000000000
+      internalID: -9058181255204365309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_118
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 72
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0c67ba7fd65ddc0800000000000000
+      internalID: -3614862215393918741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_119
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 72
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb622c1a8cfd50c10800000000000000
+      internalID: 2019266060745844415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_120
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 72
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d849a60336613c7b0800000000000000
+      internalID: -5205292129040296819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8078cdaea105110800000000000000
+      internalID: 1247526692806133998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_122
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 38
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1395a1d3689d370800000000000000
+      internalID: 8347850981301105139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_123
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 38
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e243be2e5e7f286d0800000000000000
+      internalID: -2989554635893951442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_124
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 38
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8983bc59fb37d510800000000000000
+      internalID: 1573792536977443210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_125
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 38
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50088624cc853dd70800000000000000
+      internalID: 9066688109137657861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_126
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 38
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4845ee0dac1fbd230800000000000000
+      internalID: 3664788575186998404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_127
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 38
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7cc011f34afe030800000000000000
+      internalID: 3526217624030332865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_128
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 38
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e513a3a4697a6470800000000000000
+      internalID: 8388650729080034791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_129
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 38
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052cd45606ceb7fa0800000000000000
+      internalID: -5801783796176141744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_130
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 38
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a227e3a046643e0800000000000000
+      internalID: -2069856983570044271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_131
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 38
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d44198d487ef940800000000000000
+      internalID: 5331831283260869909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_132
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 38
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af067c6317bd4e810800000000000000
+      internalID: 1793799830897123578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_133
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 38
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192029d5682a04c50800000000000000
+      internalID: 6647491747978019473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_134
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 38
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d7d54ed62e64b90800000000000000
+      internalID: -7257864787850330729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_135
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 38
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b03866b48859cd00800000000000000
+      internalID: 993422519831113909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_136
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 38
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27612fc8358ca3740800000000000000
+      internalID: 5132634986514617970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_137
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c64da165170275d0800000000000000
+      internalID: -3066380607871433020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_138
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c747ef18cb5f6a620800000000000000
+      internalID: 2785183609558824060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_139
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 4
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7d78530bf05bde0800000000000000
+      internalID: -1318130066449246280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_140
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 4
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd94b75bb6043f10800000000000000
+      internalID: 2248429515664825810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_141
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 4
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1210bf6668a9549d0800000000000000
+      internalID: -2790654492042133215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_142
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 4
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edf8c3090cf6c050800000000000000
+      internalID: 5820616684071353832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_143
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 0
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef11a9189b5afae0800000000000000
+      internalID: -1514797615833604119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_144
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 4
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4590280292f8c6560800000000000000
+      internalID: 7308373702117296468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_145
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 4
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5eb7dfabab614af0800000000000000
+      internalID: -413931305607643554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_146
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 10
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36813430fe07fd930800000000000000
+      internalID: 4170175951822592099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Email Text_147
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 4
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d964ba40dca99910800000000000000
+      internalID: 1844695532991441360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Email Text_0: 6315392508492389626
+      Email Text_1: -1418395736235268386
+      Email Text_10: 5486259207113816901
+      Email Text_100: 3130428578638832743
+      Email Text_101: 7009156941963431837
+      Email Text_102: 936519965657031553
+      Email Text_103: -5139971902689314314
+      Email Text_104: -458394476213018289
+      Email Text_105: 1282238629656084405
+      Email Text_106: 5643646634181859052
+      Email Text_107: -5618336039152776122
+      Email Text_108: -9198721420436889778
+      Email Text_109: -8416144527522204798
+      Email Text_11: 6577590915556241274
+      Email Text_110: 615579599921162986
+      Email Text_111: -4929031247348500395
+      Email Text_112: -5981439393122022752
+      Email Text_113: -9018403086369819844
+      Email Text_114: 101150205972335987
+      Email Text_115: -8317462653463571512
+      Email Text_116: -7974677473706577632
+      Email Text_117: -9058181255204365309
+      Email Text_118: -3614862215393918741
+      Email Text_119: 2019266060745844415
+      Email Text_12: 5463227439340355442
+      Email Text_120: -5205292129040296819
+      Email Text_121: 1247526692806133998
+      Email Text_122: 8347850981301105139
+      Email Text_123: -2989554635893951442
+      Email Text_124: 1573792536977443210
+      Email Text_125: 9066688109137657861
+      Email Text_126: 3664788575186998404
+      Email Text_127: 3526217624030332865
+      Email Text_128: 8388650729080034791
+      Email Text_129: -5801783796176141744
+      Email Text_13: -4029479831042553978
+      Email Text_130: -2069856983570044271
+      Email Text_131: 5331831283260869909
+      Email Text_132: 1793799830897123578
+      Email Text_133: 6647491747978019473
+      Email Text_134: -7257864787850330729
+      Email Text_135: 993422519831113909
+      Email Text_136: 5132634986514617970
+      Email Text_137: -3066380607871433020
+      Email Text_138: 2785183609558824060
+      Email Text_139: -1318130066449246280
+      Email Text_14: -8639933623602032206
+      Email Text_140: 2248429515664825810
+      Email Text_141: -2790654492042133215
+      Email Text_142: 5820616684071353832
+      Email Text_143: -1514797615833604119
+      Email Text_144: 7308373702117296468
+      Email Text_145: -413931305607643554
+      Email Text_146: 4170175951822592099
+      Email Text_147: 1844695532991441360
+      Email Text_15: -1353977937677104179
+      Email Text_16: 2054269536220942523
+      Email Text_17: -8978911538050547730
+      Email Text_18: 7460268857616233530
+      Email Text_19: 8057779279685910330
+      Email Text_2: 988667223187878990
+      Email Text_20: 7544868687569504876
+      Email Text_21: 846032470374254578
+      Email Text_22: -4109541280976380896
+      Email Text_23: -5897542114326177664
+      Email Text_24: -4500348101633714237
+      Email Text_25: -4409044338758067758
+      Email Text_26: 1972262006643545849
+      Email Text_27: 1633229571240181848
+      Email Text_28: 3718686364888538431
+      Email Text_29: 380773740969726941
+      Email Text_3: -5019924729067252391
+      Email Text_30: -3696572938675587092
+      Email Text_31: 5119988298163725999
+      Email Text_32: 6664050967596080588
+      Email Text_33: 6965764465793006652
+      Email Text_34: 5265514557902256715
+      Email Text_35: -5188092019542360001
+      Email Text_36: -4745118743037120077
+      Email Text_37: -2321324671167962801
+      Email Text_38: 7005916202253649694
+      Email Text_39: -7796517018452821681
+      Email Text_4: -1047471685423479068
+      Email Text_40: -3559281006599010403
+      Email Text_41: 1091317369686148429
+      Email Text_42: 4262452530486203396
+      Email Text_43: 6887911254887482365
+      Email Text_44: -5399202286364812385
+      Email Text_45: 9019554780108450860
+      Email Text_46: 4192993569554558116
+      Email Text_47: -8922265527912555331
+      Email Text_48: -8938115787891380511
+      Email Text_49: -171594871651555716
+      Email Text_5: -4133024173590152137
+      Email Text_50: 2353842979160094587
+      Email Text_51: -5843183641848719092
+      Email Text_52: 5267839480506138262
+      Email Text_53: -1199151468815725783
+      Email Text_54: 4570742191702560324
+      Email Text_55: -85586612939969487
+      Email Text_56: 8365479992867286071
+      Email Text_57: -5724002734379411925
+      Email Text_58: 6926662466843933057
+      Email Text_59: -1023092821532759477
+      Email Text_6: -7375594345673824756
+      Email Text_60: -6273524644149877255
+      Email Text_61: -3709806409319370510
+      Email Text_62: -254837536677797927
+      Email Text_63: -7113280638533801001
+      Email Text_64: 423330183887446566
+      Email Text_65: -8587084753769136408
+      Email Text_66: 1732934154525999344
+      Email Text_67: 6784732184451110801
+      Email Text_68: 8344508908644401926
+      Email Text_69: 602097285058461718
+      Email Text_7: -520961788778957620
+      Email Text_70: 7752854505655901481
+      Email Text_71: 2431951429054253965
+      Email Text_72: -5952092377223777437
+      Email Text_73: 7122700543332830010
+      Email Text_74: 7887618427638563850
+      Email Text_75: -7206571939567365559
+      Email Text_76: 863522329361892239
+      Email Text_77: 583729404643150663
+      Email Text_78: 7843985704239894724
+      Email Text_79: 5364665839253050178
+      Email Text_8: 3545241464771452769
+      Email Text_80: 7034942886461386513
+      Email Text_81: 7619015576714992721
+      Email Text_82: -5773187387719353278
+      Email Text_83: 1833884292240073476
+      Email Text_84: -4392836279366988026
+      Email Text_85: 4820326931831717029
+      Email Text_86: -6292883889059782384
+      Email Text_87: 4330409377488426708
+      Email Text_88: -7435610900423041730
+      Email Text_89: 7480510264744428867
+      Email Text_9: -5275037035230062371
+      Email Text_90: 8914913151315341325
+      Email Text_91: -4694239220726541203
+      Email Text_92: 3810488818277652486
+      Email Text_93: 7043049244351859238
+      Email Text_94: -5380434667457857197
+      Email Text_95: 8426213761276570138
+      Email Text_96: -7656798419274940131
+      Email Text_97: 6613352415676042578
+      Email Text_98: -2391719628021116981
+      Email Text_99: -9072100103986168330
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
